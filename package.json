@@ -1,0 +1,20 @@
+{
+  "name": "backendtest",
+  "version": "1.0.0",
+  "description": "backend testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert",
+  "license": "ISC",
+  "engines": {
+    "node": "4.4.2",
+    "npm": "2.15.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "pg": "4.x",
+    "sequelize": "^3.23.3"
+  }
+}
