@@ -1,6 +1,6 @@
 # Backend Test
 
-Technology used:
+Technologies used:
 - Node.js
 - Express.js
 - RESTful API
