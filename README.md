@@ -8,6 +8,6 @@ Technology used:
 - Sequelizejs (Node.js ORM for PostgreSQL)
 
 
-##Heroku Deployment Test:
-https://backend-testing.herokuapp.com/
+## Testing Deployment in Heroku:
+Link: https://backend-testing.herokuapp.com/
 
