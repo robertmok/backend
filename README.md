@@ -5,7 +5,7 @@ Technologies used:
 - Express.js
 - RESTful API
 - PostgreSQL Database
-- Sequelizejs (Node.js ORM for PostgreSQL)
+- Sequelize.js (Node.js ORM for PostgreSQL)
 
 
 ## Testing Deployment in Heroku:
